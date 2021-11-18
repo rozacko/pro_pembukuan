@@ -3,7 +3,7 @@
 		<div class="col-lg-12">
 			<div class="ibox ">
 				<div class="ibox-title bg-primary">
-					<h5>Master Data pegawai</h5>
+					<h5>Master Data Pegawai</h5>
 					<div class="ibox-tools">
 						<a class="collapse-link">
 							<i class="fa fa-chevron-up text-white"></i>
